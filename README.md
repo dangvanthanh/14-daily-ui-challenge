@@ -19,12 +19,22 @@
 - [013 - Upload File](https://github.com/dangvanthanh/14-daily-ui-challenge/issues/13) - [Figma](https://www.figma.com/file/t4ZsLTGl6tjsNWlB1oqIGC/Poeta---14-Day-Challenge?node-id=5%3A61&t=XJwC3EV3ma39rmGQ-1)
 - [014 - Dashboard](https://github.com/dangvanthanh/14-daily-ui-challenge/issues/14) - [Figma](https://www.figma.com/file/t4ZsLTGl6tjsNWlB1oqIGC/Poeta---14-Day-Challenge?node-id=6%3A161&t=XJwC3EV3ma39rmGQ-1)
 
-## Development
+## Getting Started
 
-Go to the folder such as `001-signup`
+1. This includes all the project assets you need to get started: HTML, CSS and JavaScript files.
+2. Look at the project's Figma file. This is a great way to see how the pieces and parts should look within the browser.
+3. Open the project's issue. It has additional information on how the project is structured.
+4. Customize your project / file architecture to your liking.
+5. Happy coding! Example, go to the folder such as `001-signup`
 
 ```
 $ npm run dev
 ```
 
 You can view the development live server at `http://127.0.0.1:8080`
+
+## Taking your Project to the Next Level
+
+- Use a library or framework like [Alpine](), [Angular](), [React](), [Vue](), [Solid](), [Svelte] or others you like. Or, if you're feeling particularly adventurous, try writing everything in Vanilla JavaScript.
+- Take a step back and try writing the HTML and CSS for this project yourself. Start with the provided Figma file
+- Add an animation on load, have the podcast list slide out from under the podcast artwork 
